@@ -1,0 +1,5 @@
+{
+  "name": "LES Data Center Optimizer",
+  "description": "A simulation of the Low-Entropy Spiral (LES) and Cognitive Entropy Minimization Loop (CEML) algorithms for data center energy reduction.",
+  "requestFramePermissions": []
+}
